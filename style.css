@@ -1,0 +1,47 @@
+.Index{
+    background-image: url(../Img/Fondo7.png);
+    background-size: 150%;
+    background-repeat: no-repeat;
+}
+
+.navbar.navbar-expand-lg.bg-primary{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+i.fa-brands.fa-2xl:hover{
+    color: rgb(63,94,251);
+    color: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+i.fa-regular.fa-2xl:hover{
+    color: rgb(63,94,251);
+    color: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+i.fa-solid.fa-2xl:hover{
+    color: rgb(63,94,251);
+    color: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+.list-group{
+    --bs-body-bg: transparent;
+    --bs-border-color: transparent;
+}
+section.CV{
+    margin-top: 0.1rem;
+    border: solid whitesmoke;
+    border-radius: 10rem;
+}
+.container-fluid.text-center{
+    margin-top: 7rem;
+}
+.blockquote-footer{
+    margin-top: 1rem;
+}
+.Acerca{
+    background-color: white;
+}
+div.col-3{
+    text-align: center;
+}
+section.data{
+    align-content: center;
+
+}
